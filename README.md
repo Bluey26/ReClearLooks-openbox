@@ -23,6 +23,24 @@ For the orange theme, you can see the colors and the same effects in this one:
 
 A lot of different color schemes can be made, for the moment i only have used those two, maybe i will add more in the future.
 
+## How to Use:
+
+Copy the ReClearLooks-Olive and the ReClearlooks-Orange folders inside:
+
+```
+~/.themes
+
+```
+Or, with absolute path:
+
+```
+/home/YOUR_USER/.themes
+```
+
+Open your 'Opebox Settings program' and select the desired theme.
+
+
+
 
 # Credits:
 
