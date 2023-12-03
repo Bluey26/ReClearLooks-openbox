@@ -46,6 +46,8 @@ Open your 'Opebox Settings program' and select the desired theme.
 
 **John McKnight** (Author of the original Clearlooks-3.4 and Clearlooks Olive)
 
+**2009-2017 Julien Lavergne, 2018 Simon Quigley, 2023 Walter Lachypnski** (Maintainers of the Lubuntu Artworks)
+
 **Dino Duratović** (Author of the Lubuntu-Arc openbox theme, which was based in horst3180's Arc GTK theme)
 
 **Onyx Theme creator** (I have not found who made it, contact me if you know who made it)
