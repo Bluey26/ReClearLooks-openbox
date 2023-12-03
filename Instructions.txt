@@ -1,0 +1,10 @@
+Paste the 'Clearlooks-Olive-V2' and 'Clearlooks-Orange' folder in the
+
+~/.themes 
+
+Directory
+
+You may also find the other openbox themes in:
+
+/usr/share/themes
+
